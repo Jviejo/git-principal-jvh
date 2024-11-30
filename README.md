@@ -1,5 +1,5 @@
 LISTA DE NOMBRE
 ==============
-Jose Viejo Huerta
+Jose Viejo Huerta\n
 David Perez Sanchez
 
